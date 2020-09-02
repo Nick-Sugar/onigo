@@ -1,0 +1,108 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.3.3f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.3.3f1/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=12109 outsize=2827 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3516 outsize=3802 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3256 outsize=3229 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=11985 outsize=2853 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=11985 outsize=2887 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2927 outsize=3382 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2957 outsize=3428 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=18301 outsize=4787 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4849 outsize=7494 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=5115 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=3821 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=5647 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=3453 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=3416 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=4051 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=4088 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=3458 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=5052 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=66874 outsize=3514 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5263 outsize=5945 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4245 outsize=4142 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4460 outsize=4702 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4097 outsize=3813 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4333 outsize=4158 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4707 outsize=5072 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4698 outsize=5181 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4730 outsize=5227 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4877 outsize=5475 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4155 outsize=3962 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4565 outsize=4600 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3734 outsize=3060 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=72903 outsize=5039 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2149 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=1319 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2146 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2701 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2969 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2914 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2720 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=34089 outsize=2859 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2407 outsize=1977 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2552 outsize=2195 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2735 outsize=2553 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3058 outsize=3347 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2962 outsize=3044 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2917 outsize=2968 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2938 outsize=3168 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=79248 outsize=35497 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11439 outsize=21121 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=36252 outsize=71078 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4426 outsize=7636 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1302 outsize=2957 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
